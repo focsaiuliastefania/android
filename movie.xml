@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <movie>
+        <title>Inception</title>
+        <profit>1000000000.00</profit>
+        <genre>Sci-Fi</genre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>Theater</platform>
+    </movie>
+    <movie>
+        <title>Interstellar</title>
+        <profit>700000000.00</profit>
+        <genre>Sci-Fi</genre>
+        <releaseDate>2014-11-07</releaseDate>
+        <platform>Theater</platform>
+    </movie>
+    <movie>
+        <title>Avengers: Endgame</title>
+        <profit>2500000000.00</profit>
+        <genre>Action</genre>
+        <releaseDate>2019-04-26</releaseDate>
+        <platform>Theater</platform>
+    </movie>
+    <movie>
+        <title>The Matrix</title>
+        <profit>460000000.00</profit>
+        <genre>Action</genre>
+        <releaseDate>1999-03-31</releaseDate>
+        <platform>DVD</platform>
+    </movie>
+</movies>
