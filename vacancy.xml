@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Vacancy>
-    <vacancyList>
+    <vacancy>
         <vacancyTitle>title1</vacancyTitle>
         <salary>100000000</salary>
         <noOfApplicants>23</genre>
         <vacancyStartDate>2010-07-16</vacancyStartDate>
-    </vacancyList>
+    </vacancy>
 
-  <vacancyList>
+  <vacancy>
         <vacancyTitle>title2</vacancyTitle>
         <salary>2345</salary>
         <noOfApplicants>10</genre>
         <vacancyStartDate>2020-07-16</vacancyStartDate>
-    </vacancyList>
+    </vacancy>
 
-  <vacancyList>
+  <vacancy>
         <vacancyTitle>title3</vacancyTitle>
         <salary>5645643</salary>
         <noOfApplicants>25</genre>
         <vacancyStartDate>2019-09-16</vacancyStartDate>
-    </vacancyList>
+    </vacancy>
 
-  <vacancyList>
+  <vacancy>
         <vacancyTitle>title4</vacancyTitle>
         <salary>753354</salary>
         <noOfApplicants>44</genre>
         <vacancyStartDate>2022-01-23</vacancyStartDate>
-    </vacancyList>
+    </vacancy>
 
 </Vacancy>
