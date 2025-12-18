@@ -3,28 +3,28 @@
     <vacancy>
         <vacancyTitle>title1</vacancyTitle>
         <salary>100000000</salary>
-        <noOfApplicants>23</genre>
+        <noOfApplicants>23</noOfApplicants>
         <vacancyStartDate>2010-07-16</vacancyStartDate>
     </vacancy>
 
   <vacancy>
         <vacancyTitle>title2</vacancyTitle>
         <salary>2345</salary>
-        <noOfApplicants>10</genre>
+        <noOfApplicants>10</noOfApplicants>
         <vacancyStartDate>2020-07-16</vacancyStartDate>
     </vacancy>
 
   <vacancy>
         <vacancyTitle>title3</vacancyTitle>
         <salary>5645643</salary>
-        <noOfApplicants>25</genre>
+        <noOfApplicants>25</noOfApplicants>
         <vacancyStartDate>2019-09-16</vacancyStartDate>
     </vacancy>
 
   <vacancy>
         <vacancyTitle>title4</vacancyTitle>
         <salary>753354</salary>
-        <noOfApplicants>44</genre>
+        <noOfApplicants>44</noOfApplicants>
         <vacancyStartDate>2022-01-23</vacancyStartDate>
     </vacancy>
 
